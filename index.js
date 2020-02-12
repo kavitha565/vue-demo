@@ -1,6 +1,7 @@
 var app = new Vue({
     el: '#app',
     data: {
-        appTitle: 'To do app'
+        appTitle: 'To do app',
+        value: 'kavitha'
     }
   })
